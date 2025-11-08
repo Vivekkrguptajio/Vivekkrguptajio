@@ -16,18 +16,77 @@ Currently exploring **MERN Stack**, **Machine Learning**, and **Deep Learning Ap
 
 ---
 
-## 🧠 Skills & Tools
+## 🧠 Skills & Tools  
+
+### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
 ![Java](https://img.shields.io/badge/-Java-red?logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)
-![Git](https://img.shields.io/badge/-Git-red?logo=git)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 
 ---
+
+### ⚙️ Frontend Development  
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite)
+
+---
+
+### 🔧 Backend Development  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=apachespark)
+![Socket.io](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io)
+![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens)
+
+---
+
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+
+---
+
+### 🧠 Machine Learning / AI  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly)
+
+---
+
+### ☁️ Cloud & DevOps  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![Render](https://img.shields.io/badge/-Render-000000?logo=render)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
+
+---
+
+### 🧰 Tools & Utilities  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)
+
+---
+
+### 💬 Core CS Concepts  
+🧩 Data Structures & Algorithms  
+🧱 Object-Oriented Programming (OOPs)  
+🧮 Operating Systems  
+🌐 Computer Networks  
+🔐 Security (JWT, TLS/SSL)
+
 
 ## 💻 Projects
 
