@@ -54,9 +54,9 @@ Currently exploring **MERN Stack**, **Machine Learning**, and **Deep Learning Ap
 ---
 
 ## 📊 GitHub Stats
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek369&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek369&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=vivek369&theme=radical)
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivekkrguptajio&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkrguptajio&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vivekkrguptajio&theme=radical)
 
 ---
 
@@ -72,4 +72,4 @@ Currently exploring **MERN Stack**, **Machine Learning**, and **Deep Learning Ap
 
 ---
 
-⭐️ From [vivek369](https://github.com/vivek369)
+⭐️ From [Vivekkrguptajio](https://github.com/Vivekkrguptajio)
